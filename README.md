@@ -15,7 +15,7 @@ Memborship Service Providers (MSPs) - https://hyperledger-fabric.readthedocs.io/
 
 PaaS
 
-AWS - https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
+Amazon Web Services (AWS) - https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
 
 BITCOIN
 
