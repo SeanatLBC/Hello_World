@@ -14,3 +14,8 @@ MSPs - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membe
 BITCOIN
 
 Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
+
+AWS
+
+https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
+
