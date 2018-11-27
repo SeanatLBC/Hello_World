@@ -11,11 +11,15 @@ Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs
 
 Peers and Roles - http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
 
-MSPs - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membership.html
+Memborship Service Providers (MSPs) - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membership.html
+
+PaaS
+
+AWS - https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
 
 BITCOIN
 
 Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
 
-AWS - https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
+
 
