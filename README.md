@@ -9,7 +9,7 @@ HYPERLEDGER
 
 Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html#peers-and-orderers
 
-http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
+Peers - http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
 
 MSPs - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membership.html
 
