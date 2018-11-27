@@ -1,7 +1,7 @@
 # Hello_World
 First Repository Ever
 
-Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (LBC) Thoughtful Software Podcast
+Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (LBC) https://www.skiplist.com/thoughtfulsoftwarepodcast/
 
 HYPERLEDGER
 
