@@ -1,5 +1,5 @@
 # Hello_World
-First Repository Ever
+This is LBC's First Repository Ever.  SeanatLBC invites All!
 
 Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (LBC) https://www.skiplist.com/thoughtfulsoftwarepodcast/
 
