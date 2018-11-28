@@ -6,6 +6,7 @@ Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (L
 8 Steps to a Blockchain Solution (Template / Checklist) - https://www.entrepreneur.com/article/300077
 
 HYPERLEDGER
+Main site - https://lists.hyperledger.org/g/main
 
 Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html#peers-and-orderers
 
