@@ -14,8 +14,7 @@ Peers and Roles - http://www.bcmentors.com/knowledge-base/hyperledger-fabric-pee
 
 Memborship Service Providers (MSPs) - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membership.html
 
-Interledger
-Main Site - https://interledger.org/
+INTERLEDGER Main Site - https://interledger.org/
 
 PaaS
 
