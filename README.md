@@ -13,6 +13,8 @@ Main site - https://lists.hyperledger.org/g/main
  *  Peers and Roles - http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
 
  *  Memborship Service Providers (MSPs) - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membership.html
+ 
+ *  FAQ's - https://hyperledger-fabric.readthedocs.io/en/release-1.3/Fabric-FAQ.html
 
 INTERLEDGER Main Site - https://interledger.org/
 
@@ -25,7 +27,7 @@ BITCOIN
  *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
 
  *  Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off:  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
-  *  Great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE getting discounts on Amazon purchases!).
+    *  Great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE getting discounts on Amazon purchases!).
 
 
 
