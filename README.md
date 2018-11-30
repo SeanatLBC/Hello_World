@@ -23,9 +23,9 @@ INTERLEDGER Main Site - https://interledger.org/
 PaaS
 
  *  Amazon Web Services (AWS) - https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
-   *  https://docs.aws.amazon.com/managed-blockchain/latest/managementguide/managed-blockchain-get-started-tutorial.html
-   *  https://github.com/MCLDG/ngo-composer
-   *  https://www.reddit.com/r/aws/comments/a18awq/we_are_the_amazon_managed_blockchain_and_amazon/?utm_source=reddit-android
+    *  https://docs.aws.amazon.com/managed-blockchain/latest/managementguide/managed-blockchain-get-started-tutorial.html
+    *  https://github.com/MCLDG/ngo-composer
+    *  https://www.reddit.com/r/aws/comments/a18awq/we_are_the_amazon_managed_blockchain_and_amazon/?utm_source=reddit-android
 
 BITCOIN
 
