@@ -17,6 +17,10 @@ Main site - https://lists.hyperledger.org/g/main
  *  FAQ's - https://hyperledger-fabric.readthedocs.io/en/release-1.3/Fabric-FAQ.html
  
  *  Convector - Develop Chaincode (in absence of Composer) - https://github.com/worldsibu/convector/blob/develop/README.md
+ 
+ *  Kafka Quickstart - https://kafka.apache.org/quickstart
+ 
+ *  Kafka [Sample Config] - https://github.com/hyperledger/fabric/blob/release-1.1/bddtests/dc-orderer-kafka.yml
 
 INTERLEDGER Main Site - https://interledger.org/
  *  Interledger Blog - https://medium.com/interledger-blog
