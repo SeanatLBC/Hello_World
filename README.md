@@ -30,6 +30,7 @@ INTERLEDGER Main Site - https://interledger.org/
  *  IBM Food Trust - Developers Wiki https://github.com/IBM/IFT-Developer-Zone/wiki
     *  How to Assign Users - https://github.com/IBM/IFT-Developer-Zone/wiki/user-roles-and-authorizations
     *  How to Use Excel Templates - https://github.com/IBM/IFT-Developer-Zone/wiki/how-to-use-excel-templates
+    *  How to Upload Data to IBM Food Trust - https://github.com/IBM/IFT-Developer-Zone/wiki/how-to-upload-data-to-IBMFoodTrust
  
  *  Integration Guide (Byteally) - https://byteally.com/insights/supply-chain/integrating-with-ibm-food-trust-blockchain-guide/
 
