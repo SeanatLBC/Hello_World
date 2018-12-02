@@ -28,7 +28,7 @@ INTERLEDGER Main Site - https://interledger.org/
  IBM Food Trust
  
  *  IBM Food Trust - Developers Wiki https://github.com/IBM/IFT-Developer-Zone/wiki
-  *  How to Assign Users - https://github.com/IBM/IFT-Developer-Zone/wiki/user-roles-and-authorizations
+    *  How to Assign Users - https://github.com/IBM/IFT-Developer-Zone/wiki/user-roles-and-authorizations
  
  *  Integration Guide (Byteally) - https://byteally.com/insights/supply-chain/integrating-with-ibm-food-trust-blockchain-guide/
 
