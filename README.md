@@ -28,6 +28,8 @@ INTERLEDGER Main Site - https://interledger.org/
  IBM Food Trust
  
  *  IBM Food Trust - Developers Wiki https://github.com/IBM/IFT-Developer-Zone/wiki
+ 
+ *  Integration Guide (Byteally) - https://byteally.com/insights/supply-chain/integrating-with-ibm-food-trust-blockchain-guide/
 
 PaaS
 
