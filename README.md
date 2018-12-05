@@ -28,7 +28,7 @@ INTERLEDGER Main Site - https://interledger.org/
  IBM Blockchain
  
  *  Deploying IBM Blockchain PEER for AWS (Guide): https://console.bluemix.net/docs/services/blockchain/howto/remote_peer_aws.html?cm_mc_uid=64870479585115411207616&cm_mc_sid_50200000=13849331543969501538&cm_mc_sid_52640000=18729931543969501541#remote-peer-aws 
-    *  This is for members of a paying IBM Enterprise Blockchain Solution
+    *  These instructions describe how to use an Amazon Web Services (AWS) Quick Start template to create an IBM® Blockchain Platform for AWS peer and then connect it to a network on an IBM Blockchain Platform.
  
  IBM Food Trust
  
