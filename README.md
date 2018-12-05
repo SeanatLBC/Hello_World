@@ -25,6 +25,11 @@ Main site - https://lists.hyperledger.org/g/main
 INTERLEDGER Main Site - https://interledger.org/
  *  Interledger Blog - https://medium.com/interledger-blog
  
+ IBM Blockchain
+ 
+ *  Deploying IBM Blockchain PEER for AWS (Guide): https://console.bluemix.net/docs/services/blockchain/howto/remote_peer_aws.html?cm_mc_uid=64870479585115411207616&cm_mc_sid_50200000=13849331543969501538&cm_mc_sid_52640000=18729931543969501541#remote-peer-aws 
+    *  This is for members of a paying IBM Enterprise Blockchain Solution
+ 
  IBM Food Trust
  
  *  IBM Food Trust - Developers Wiki https://github.com/IBM/IFT-Developer-Zone/wiki
