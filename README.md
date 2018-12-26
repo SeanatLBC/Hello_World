@@ -1,5 +1,7 @@
 # Hello_World
-This is LBC's First Repository Ever.  
+This is LBC's First Repository Ever. 
+
+International Organization for Standardization:  https://www.iso.org/committee/6266604.html
 
 Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (LBC) https://www.skiplist.com/thoughtfulsoftwarepodcast/blockchain-is-changing-walmart-accountants-and-cfos
 
