@@ -7,6 +7,8 @@ Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (L
 
 Supply Chain chaincode:  https://github.com/xcottos/convector-example-supplychain-master/blob/master/README.md
 
+Virtualbox Manual:  https://www.virtualbox.org/manual/
+
 HYPERLEDGER
 
 Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html#peers-and-orderers
