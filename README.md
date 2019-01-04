@@ -1,10 +1,5 @@
 # Hello_World
-This is LBC's First Repository Ever.  
 
-Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (LBC) https://www.skiplist.com/thoughtfulsoftwarepodcast/blockchain-is-changing-walmart-accountants-and-cfos
-
-
-8 Steps to a Blockchain Solution (Template / Checklist) - https://www.entrepreneur.com/article/300077
 
 HYPERLEDGER
 Main site - https://lists.hyperledger.org/g/main
