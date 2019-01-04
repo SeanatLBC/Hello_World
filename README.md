@@ -31,35 +31,7 @@ INTERLEDGER Main Site - https://interledger.org/
  *  Deploying IBM Blockchain PEER for AWS (Guide): https://console.bluemix.net/docs/services/blockchain/howto/remote_peer_aws.html?cm_mc_uid=64870479585115411207616&cm_mc_sid_50200000=13849331543969501538&cm_mc_sid_52640000=18729931543969501541#remote-peer-aws 
     *  These instructions describe how to use an Amazon Web Services (AWS) Quick Start template to create an IBM® Blockchain Platform for AWS peer and then connect it to a network on an IBM Blockchain Platform.
  
- IBM Food Trust
- 
- *  IBM Food Trust - Developers Wiki https://github.com/IBM/IFT-Developer-Zone/wiki
-    *  Food Trust Onboarding Checklist - https://github.com/IBM/IFT-Developer-Zone/wiki/doc-Onboarding-Checklist
-    *  GIS - https://github.com/IBM/IFT-Developer-Zone/wiki/doc-GS1
-    *  Food Trust Components - https://github.com/IBM/IFT-Developer-Zone/wiki/doc-components
-    *  Food Trust Access Controls - https://github.com/IBM/IFT-Developer-Zone/wiki/Data-Entitlement-and-Access-Control
-    *  Food Trust - Cruptographic Data Signing - https://github.com/IBM/IFT-Developer-Zone/wiki/Cryptographic-Signing-of-Data
-    *  Food Trust Message Codes - https://github.com/IBM/IFT-Developer-Zone/wiki/doc-Message-Codes
-    *  How to Register and Authenticate Food Trust Users - https://github.com/IBM/IFT-Developer-Zone/wiki/How-To-Get-an-Authentication-Token-for-System-Users
-    *  How to Assign Users - https://github.com/IBM/IFT-Developer-Zone/wiki/user-roles-and-authorizations
-    *  How to Use Excel Templates - https://github.com/IBM/IFT-Developer-Zone/wiki/how-to-use-excel-templates
-    *  How to Upload Data to IBM Food Trust - https://github.com/IBM/IFT-Developer-Zone/wiki/how-to-upload-data-to-IBMFoodTrust
- 
- *  Integration Guide (Byteally) - https://byteally.com/insights/supply-chain/integrating-with-ibm-food-trust-blockchain-guide/
 
-PaaS
-
- *  Amazon Web Services (AWS) - https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
-    *  https://docs.aws.amazon.com/managed-blockchain/latest/managementguide/managed-blockchain-get-started-tutorial.html
-    *  https://github.com/MCLDG/ngo-composer
-    *  https://www.reddit.com/r/aws/comments/a18awq/we_are_the_amazon_managed_blockchain_and_amazon/?utm_source=reddit-android
-
-BITCOIN
-
- *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
-
- *  Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off:  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
-    *  Great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE getting discounts on Amazon purchases!).
 
 
 
