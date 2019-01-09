@@ -29,6 +29,10 @@ Iroha Android Github:  https://github.com/hyperledger/iroha-android
 
 Iroha Overview:  https://hyperledger.github.io/iroha-api/#overview
 
+Oracle
+
+Blockchain Cloud Services - Video:  https://cloud.oracle.com/blockchain/videos
+
 
 AWS
 
