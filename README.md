@@ -15,6 +15,8 @@ Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs
 or
 http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
 
+Fabric Channels (by Blockchain Mentors):  http://www.bcmentors.com/fabric-privacy-confidentiality/
+
 MSPs - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membership.html
 
 IBM Food Trust
