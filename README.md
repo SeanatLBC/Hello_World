@@ -37,7 +37,7 @@ Oracle
 
 Blockchain Cloud Services - Video:  https://cloud.oracle.com/blockchain/videos
 
-Blockchain Cloud Services - VideoII:  https://video.oracle.com/detail/video/5837257654001/oracle-autonomous-blockchain-cloud-service:-a-quick-overview?autoStart=true&q=blockchain
+Blockchain Cloud Services - Quick Overview Video:  https://video.oracle.com/detail/video/5837257654001/oracle-autonomous-blockchain-cloud-service:-a-quick-overview?autoStart=true&q=blockchain
 
 
 
