@@ -37,6 +37,10 @@ Iroha Android Github:  https://github.com/hyperledger/iroha-android
 
 Iroha Overview:  https://hyperledger.github.io/iroha-api/#overview
 
+Indy
+
+Zero Knowledge Proofs:  https://en.wikipedia.org/wiki/Zero-knowledge_proof
+
 Oracle
 
 Blockchain Cloud Services - Video:  https://cloud.oracle.com/blockchain/videos
