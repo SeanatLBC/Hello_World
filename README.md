@@ -1,5 +1,9 @@
 # Hello_World
 
+IDENTITY
+
+Self Sovereign - A Path to Self Sovereign Identity:   http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
+
 DIF - The Identify Foundation:  https://identity.foundation/
 
 HYPERLEDGER
