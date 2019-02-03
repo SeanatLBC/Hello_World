@@ -73,7 +73,7 @@ BITCOIN
     *  Great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE getting discounts on Amazon purchases!).
     
     
-TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
+TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS 
 
   Portfolio Management  
   *  CoinTracking:  https://cointracking.info/
