@@ -87,14 +87,15 @@ Bitcoin
 Tezos
 *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
 
-NEOScan:  
-*  https://neoscan.io/
+NEO  
+*  NEOScan:  https://neoscan.io/
 
-Stellar Dashboard:  
-*  https://dashboard.stellar.org/
+Stellar  
+*  Stellar Dashboard:  https://dashboard.stellar.org/
+*  Stellar Explorer:  https://steexp.com/
 
-VeChain Thor - VeForge:  
-*  https://explore.veforge.com/
+VeChain Thor  
+*  VeForge:  https://explore.veforge.com/
 
 EOS 
 *  https://eostracker.io/
