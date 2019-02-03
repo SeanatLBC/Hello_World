@@ -76,10 +76,12 @@ Blockchain Transactions
 
 
 Ethereum Etherescan: https://etherscan.io/
+
 Ethereum Ethplorer:  https://ethplorer.io/
 
 Bitcoin 
 Block Explorer:  https://www.blockchain.com/explorer
+
 Block Cypher:  https://live.blockcypher.com/btc/
 
 Tezos
