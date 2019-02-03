@@ -6,6 +6,8 @@ Self Sovereign - A Path to Self Sovereign Identity:   http://www.lifewithalacrit
 
 DIF - The Identify Foundation:  https://identity.foundation/
 
+VON - The Verifiable Organizations Network:  https://vonx.io/
+
 HYPERLEDGER
 Main site - https://lists.hyperledger.org/g/main
 
