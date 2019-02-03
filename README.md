@@ -72,7 +72,7 @@ BITCOIN
  *  Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off:  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
     *  Great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE getting discounts on Amazon purchases!).
     
-FOLLOWING BLOCKCHAIN TRANSACTIONS
+TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
 
 CoinTracking (for Portfolio Management):  https://cointracking.info/
 
