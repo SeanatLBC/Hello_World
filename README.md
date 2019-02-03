@@ -100,5 +100,5 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  VeForge:  https://explore.veforge.com/
 
   EOS 
-  *  https://eostracker.io/
+  *  https://eostracker.io/ 
 
