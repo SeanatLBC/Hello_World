@@ -71,6 +71,24 @@ BITCOIN
 
  *  Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off:  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
     *  Great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE getting discounts on Amazon purchases!).
+    
+Blockchain Transactions
+    
+Blockchain Explorers:
+
+Ethereum
+
+Ethereum Etherescan: https://etherscan.io/
+Ethereum Ethplorer:  https://ethplorer.io/
+
+Bitcoin 
+
+Block Explorer:  https://www.blockchain.com/explorer
+Block Cypher:  https://live.blockcypher.com/btc/
+
+Tezos
+
+TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
 
 
 
