@@ -75,28 +75,28 @@ BITCOIN
     
 TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
 
-CoinTracking (for Portfolio Management):  https://cointracking.info/
+  CoinTracking (for Portfolio Management):  https://cointracking.info/
 
-*  Ethereum Etherescan: https://etherscan.io/
-*  Ethereum Ethplorer:  https://ethplorer.io/
+  *  Ethereum Etherescan: https://etherscan.io/
+  *  Ethereum Ethplorer:  https://ethplorer.io/
 
-Bitcoin 
-*  Block Explorer:  https://www.blockchain.com/explorer
-*  Block Cypher:  https://live.blockcypher.com/btc/
+  Bitcoin 
+  *  Block Explorer:  https://www.blockchain.com/explorer
+  *  Block Cypher:  https://live.blockcypher.com/btc/
 
-Tezos
-*  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
+  Tezos
+  *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
 
-NEO  
-*  NEOScan:  https://neoscan.io/
+  NEO  
+  *  NEOScan:  https://neoscan.io/
 
-Stellar  
-*  Stellar Dashboard:  https://dashboard.stellar.org/
-*  Stellar Explorer:  https://steexp.com/
+  Stellar  
+  *  Stellar Dashboard:  https://dashboard.stellar.org/
+  *  Stellar Explorer:  https://steexp.com/
 
-VeChain Thor  
-*  VeForge:  https://explore.veforge.com/
+  VeChain Thor  
+  *  VeForge:  https://explore.veforge.com/
 
-EOS 
-*  https://eostracker.io/
+  EOS 
+  *  https://eostracker.io/
 
