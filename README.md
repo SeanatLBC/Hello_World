@@ -11,6 +11,8 @@ Virtualbox Manual:  https://www.virtualbox.org/manual/
 
 HYPERLEDGER
 
+Linux Foundation Certification:  https://courses.edx.org/certificates/1ddea9dedb204d4395519dbe7ab925a2
+
 Hyperledger Wiki:  https://wiki.hyperledger.org/
 
 Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html#peers-and-orderers
