@@ -101,4 +101,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
 
   EOS 
   *  https://eostracker.io/ 
-
+  
+  LEGAL
+  
+  Blockdrop - Legal Templates for all needs within Blockchain and Cryptocurrency Space:  https://www.blockdrop.tech/
