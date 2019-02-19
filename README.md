@@ -67,6 +67,9 @@ PaaS
 
 BITCOIN
 
+ *  LIGHTNING NETWORK
+    *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
+ 
  *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
 
  *  Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off:  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
