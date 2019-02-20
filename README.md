@@ -8,6 +8,8 @@ DIF - The Identify Foundation:  https://identity.foundation/
 
 VON - The Verifiable Organizations Network:  https://vonx.io/
 
+SOVRIN Foundation:  https://sovrin.org/faqs/
+
 HYPERLEDGER
 Main site - https://lists.hyperledger.org/g/main
 
