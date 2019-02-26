@@ -102,6 +102,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
 
   VeChain Thor  
   *  VeForge:  https://explore.veforge.com/
+  *  VEN to VET Swap:  https://huobiglobal.zendesk.com/hc/en-us/articles/360000131862-VEN-Chain-Swap
 
   EOS 
   *  https://eostracker.io/ 
