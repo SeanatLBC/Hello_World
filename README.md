@@ -14,6 +14,8 @@ Main site - https://lists.hyperledger.org/g/main
  *  Hyperledger Fabric SDK - https://chainhero.io/2018/03/tutorial-build-blockchain-app-2/
  
  *  Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html#peers-and-orderers
+ 
+ *  What Are Endorsements - http://www.bcmentors.com/endorsement-policies/
 
  *  Peers and Roles - http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
  
