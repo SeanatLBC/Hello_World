@@ -1,5 +1,5 @@
 # Hello_World
-This is LBC's First Repository Ever. 
+
 
 International Organization for Standardization:  https://www.iso.org/committee/6266604.html
 
