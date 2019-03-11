@@ -11,6 +11,8 @@ Virtualbox Manual:  https://www.virtualbox.org/manual/
 
 HYPERLEDGER
 
+Enterprise File Fabric:  https://blog.storagemadeeasy.com/using-the-enterprise-file-fabric-with-blockchain-for-secure-governance-and-compliance-of-company-files/#more-6694
+
 Linux Foundation Certification:  https://courses.edx.org/certificates/1ddea9dedb204d4395519dbe7ab925a2
 
 Hyperledger Wiki:  https://wiki.hyperledger.org/
