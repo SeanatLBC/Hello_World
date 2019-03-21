@@ -1,6 +1,6 @@
 # Hello_World
 
-SOCOCOIN IS a b
+Sonocoin is 
 
 SONOCOIN
 
