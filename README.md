@@ -3,7 +3,7 @@ This is LBC's First Repository Ever.
 
 International Organization for Standardization:  https://www.iso.org/committee/6266604.html
 
-COMPENSATION PRIMER on Token Based Awards - 83(b) Election:  https://www.bna.com/cryptocurrency-compensation-primer-n57982089997/
+COMPENSATION in Tokens - 83(b) Election:  https://www.bna.com/cryptocurrency-compensation-primer-n57982089997/
 
 
 BITCOIN
