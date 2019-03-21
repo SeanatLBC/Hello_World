@@ -12,7 +12,7 @@ Self Sovereign - A Path to Self Sovereign Identity:   http://www.lifewithalacrit
 
 VIDEO - Hyperledger GREENHOUSE - Indy (2 1/2 Minutes):  https://www.youtube.com/watch?v=MnO2L6WoqD0
 
-VIDEO - Intro to Hyperledger INDY given at Sovrin Foundation (1 1/2 Hours):  https://www.youtube.com/watch?v=llwfb5Ut5sg
+VIDEO - Intro to Hyperledger INDY at Sovrin Foundation (1 1/2 Hours):  https://www.youtube.com/watch?v=llwfb5Ut5sg
 
 DIF - The Identify Foundation:  https://identity.foundation/
 
