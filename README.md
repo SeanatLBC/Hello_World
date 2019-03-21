@@ -19,9 +19,9 @@ Hyperledger Wiki:  https://wiki.hyperledger.org/
 
 IBM Slideshare:  https://www.slideshare.net/HoreaPorutiu/using-blockchain-to-increase-supply-chain-transparency
 
-Peers and Orderers and Consensus - Fabric https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html#peers-and-orderers
-or
-http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
+Peers and Orderers and Consensus - Fabric: https://hyperledger-fabric.readthedocs.io/en/release-1.3/peers/peers.html#peers-and-orderers
+
+OR:  http://www.bcmentors.com/knowledge-base/hyperledger-fabric-peers-roles/
 
 Fabric Channels (by Blockchain Mentors):  http://www.bcmentors.com/fabric-privacy-confidentiality/
 
