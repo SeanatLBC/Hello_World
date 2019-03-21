@@ -28,7 +28,7 @@ Build A Tuna Network (Linux):  https://github.com/hyperledger/education/tree/mas
 
 IBM
 
-IBM Onboarding Slideshow:  IBM Slideshare:  https://www.slideshare.net/HoreaPorutiu/using-blockchain-to-increase-supply-chain-transparency
+IBM Onboarding Slideshow:  https://www.slideshare.net/HoreaPorutiu/using-blockchain-to-increase-supply-chain-transparency
 
 
 IBM FOOD TRUST
