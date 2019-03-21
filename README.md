@@ -32,13 +32,13 @@ COMPOSER:
 
 Build A Tuna Network (Linux):  https://github.com/hyperledger/education/tree/master/LFS171x/composer-material.
 
-IBM Food Trust
+IBM FOOD TRUST
 
 Food Trust - Github:  https://github.com/IBM/IFT-Developer-Zone/wiki
 
 Supply Chain SaaS:  https://www.supplychaindive.com/news/IBM-Food-Trust-SaaS-available-Carrefour/539065/
 
-Iroha:  
+IROHA 
 
 Main Github:  https://github.com/hyperledger/iroha
 
@@ -46,11 +46,11 @@ Iroha Android Github:  https://github.com/hyperledger/iroha-android
 
 Iroha Overview:  https://hyperledger.github.io/iroha-api/#overview
 
-Indy
+INDY
 
 Zero Knowledge Proofs:  https://en.wikipedia.org/wiki/Zero-knowledge_proof
 
-Oracle
+ORACLE
 
 Blockchain Cloud Services - Video:  https://cloud.oracle.com/blockchain/videos
 
