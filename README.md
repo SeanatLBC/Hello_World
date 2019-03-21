@@ -40,6 +40,10 @@ INTERLEDGER Main Site - https://interledger.org/
  
  *  Integration Guide (Byteally) - https://byteally.com/insights/supply-chain/integrating-with-ibm-food-trust-blockchain-guide/
 
+LEGAL
+  
+  Blockdrop - Legal Templates for all needs within Blockchain and Cryptocurrency Space:  https://www.blockdrop.tech/
+
 PaaS
 
  *  Amazon Web Services (AWS) - https://aws.amazon.com/blogs/aws/get-started-with-blockchain-using-the-new-aws-blockchain-templates/
