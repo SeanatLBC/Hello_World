@@ -1,7 +1,6 @@
 # Hello_World
-First Repository Ever
 
-Podcast with JWM (MMBA), Vince (TrueUp), Fahad and Andrew (Skiplist) and Sean (LBC) https://www.skiplist.com/thoughtfulsoftwarepodcast/
+If you do not know where to start or are looking to overcome a specific hurdle with your Hyperledger Project, what you seek may be right below.  Feel free to reach out if you do not find it....
 
 8 Steps to a Blockchain Solution (Template / Checklist) - https://www.entrepreneur.com/article/300077
 
