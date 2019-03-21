@@ -1,4 +1,22 @@
-Tezos * NEO * Stellar * Icon * VeChain * EOS * Request Network * Ethereum 
+Among some of the top Blockchain Platfroms are the following:
+
+*  Tezos (XTZ)
+*  NEO (NEO)
+*  Stellar (XLM)
+*  Icon (ICX)
+*  VeChain (VET)
+*  EOS (EOS)
+*  Request Network (REQ)
+*  Ethereum (ETH)
+
+Among some of the top Distributed Ledger Technology Plarforms are the following:
+
+*  IOTA - The Internet of Things, Redefining Trust, Value and Ownership:  https://www.iota.org/
+
+*  HEDERA HASHGRAPH - The Enterprise Grade Public - Network for Decentralized Applications:  https://www.hedera.com/ 
+
+*  HOLOCHAIN - What comes after Blockchain:  https://holochain.org/
+
 
  Tezos
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
