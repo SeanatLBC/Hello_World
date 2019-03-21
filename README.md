@@ -2,9 +2,17 @@
 
 IDENTITY
 
+Hyperledger INDY:  https://www.hyperledger.org/projects/hyperledger-indy
+
 Hyperledger INDY Github:  https://github.com/hyperledger/indy-node#dependent-projects
 
+Hyperledger Collaboration Tools:  https://www.hyperledger.org/community/collaboration-tools
+
 Self Sovereign - A Path to Self Sovereign Identity:   http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
+
+VIDEO - Hyperledger GREENHOUSE - Indy (2 1/2 Minutes):  https://www.youtube.com/watch?v=MnO2L6WoqD0
+
+VIDEO - Intro to Hyperledger INDY given at Sovrin Foundation (1 1/2 Hours):  https://www.youtube.com/watch?v=llwfb5Ut5sg
 
 DIF - The Identify Foundation:  https://identity.foundation/
 
