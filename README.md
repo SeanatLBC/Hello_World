@@ -18,6 +18,8 @@ Among some of the top Distributed Ledger Technology Plarforms are the following:
 *  HOLOCHAIN - What comes after Blockchain:  https://holochain.org/
 
 
+UTILITIES AND BLOCK EXPLORERS
+
  Tezos
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
   *  The Tezos TQ Wiki:  https://learn.tqgroup.io/
