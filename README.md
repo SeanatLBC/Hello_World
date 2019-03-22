@@ -58,17 +58,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   Bitcoin
   
   *  Block Explorer:  https://www.blockchain.com/explorer
-  *  Block Cypher:  https://live.blockcypher.com/btc/
-
- *  LIGHTNING NETWORK
-    *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
- 
- *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
-
- *  Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off:  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
-    *  Great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE getting discounts on Amazon purchases!).
-
- 
+  *  Block Cypher:  https://live.blockcypher.com/btc/ 
 
   NEO  
   *  NEOScan:  https://neoscan.io/
