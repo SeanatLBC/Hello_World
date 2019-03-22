@@ -8,6 +8,7 @@ Among some of the top Blockchain Platfroms are the following:
 *  EOS (EOS)
 *  Request Network (REQ)
 *  Ethereum (ETH)
+*  Bitcoin
 
 Among some of the top Distributed Ledger Technology Plarforms are the following:
 
