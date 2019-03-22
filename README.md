@@ -6,6 +6,7 @@ Among some of the top Blockchain Platfroms are the following:
 *  Icon (ICX)
 *  VeChain (VET)
 *  EOS (EOS)
+*  Sovrin 
 *  Request Network (REQ)
 *  Ethereum (ETH)
 *  Bitcoin
