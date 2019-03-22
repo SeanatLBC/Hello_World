@@ -38,7 +38,7 @@ INTERLEDGER Main Site - https://interledger.org/
 
 BITCOIN
 
- *  See THE STATE OF BITCOIN report attached in this branch - as of Decemer 2018
+ *  See THE STATE OF BITCOIN report attached in branch README - as of Decemer 2018
 
  *  LIGHTNING NETWORK
     *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
