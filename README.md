@@ -1,5 +1,9 @@
 # Hello_World
-This is LBC's First Repository Ever. 
+This is LBC's First Repository Ever. In a very, very short period of time; the activity we are actively engaged in within this space has grown be an order of magnitude. We have believed for a few years now that amazing things were on the horizon, and now we are in the middle of it.  Every three months or so, we can look back and absorb the difference between then and now.  The learning, opportunity and demand is constant.  I can only imagine what the learning, opportunity and demand will be like in the coming Bull!
+
+So - to help the cause and give back, I am laying out items that are (or were) important in an attempt to help the next person trying to get over hurdles that have already been overcome.  You will see me reference education and collaboration across my social presence. This is because I believe in it that much.  
+
+While this Hello World may be an amalgamation of many divergent areas of the overall space, you will hopefully find the other repositories more focussed.  If you have an issue with crypto, blockchain, dtl, etc and can not find a solution here; contact me and I can help (even if by directing you to someone who can help :-)
 
 International Organization for Standardization:  https://www.iso.org/committee/6266604.html
 
