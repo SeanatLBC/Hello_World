@@ -8,7 +8,7 @@ BITCOIN
  
  *  Satoshi Wiki:  https://en.wikipedia.org/wiki/Satoshi_Nakamoto
  
- *  Satoshi Calculator:  https://www.btcsatoshi.com/
+ *  Satoshi Calculator [instancly convert any USD, GBP, RUB, CAD, etc into BTC Sats]:  https://www.btcsatoshi.com/
 
  *  LIGHTNING NETWORK
     *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
