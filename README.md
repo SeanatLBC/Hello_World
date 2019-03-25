@@ -3,7 +3,7 @@ This is LBC's First Repository Ever. In a very, very short period of time; the a
 
 So - to help the cause and give back, I am laying out items that are (or were) important in an attempt to help the next person trying to get over hurdles that have already been overcome.  You will see me reference education and collaboration across my social presence. This is because I believe in it that much.  
 
-While this Hello World may be an amalgamation of many divergent areas of the overall space, you will hopefully find the other repositories more focused.  If you have an issue with crypto, blockchain, dtl, etc and can not find a solution here; contact me and I can help (even if by directing you to someone who can help :-)
+While this Hello World may be an amalgamation of many divergent areas of the overall space, you will hopefully find the other repositories more focused.  If you have an issue with crypto, blockchain, DLT's, etc and can not find a solution here; contact us and we can help (even if by directing you to someone who can help you:-)  
 
 International Organization for Standardization:  https://www.iso.org/committee/6266604.html
 
